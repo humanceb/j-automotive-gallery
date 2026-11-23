@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 341" preserveAspectRatio="none">
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency=".028 .052" numOctaves="4" seed="29" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="gray"/>
+      <feComponentTransfer in="gray" result="warm-grain">
+        <feFuncR type="table" tableValues=".20 .70"/>
+        <feFuncG type="table" tableValues=".13 .47"/>
+        <feFuncB type="table" tableValues=".08 .29"/>
+        <feFuncA type="table" tableValues=".22 .52"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="warm-grain" mode="soft-light"/>
+    </filter>
+    <pattern id="pores" width="43" height="37" patternUnits="userSpaceOnUse">
+      <circle cx="7" cy="8" r="1.25" fill="#4f301d" opacity=".25"/>
+      <circle cx="27" cy="20" r="1.7" fill="#e1b985" opacity=".32"/>
+      <circle cx="38" cy="5" r=".9" fill="#442817" opacity=".22"/>
+      <path d="M13 29l4-2m12 8 3-2M2 34l3-1" stroke="#4b2c19" stroke-width="1" opacity=".2"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="341" fill="#a6754f"/>
+  <rect width="512" height="341" fill="#fff1d1" opacity=".12" filter="url(#grain)"/>
+  <rect width="512" height="341" fill="url(#pores)"/>
+</svg>
