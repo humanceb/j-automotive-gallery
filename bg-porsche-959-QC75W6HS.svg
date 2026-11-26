@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <defs>
+    <linearGradient id="plate" x2="1" y2="1"><stop stop-color="#dae6e7"/><stop offset=".48" stop-color="#e9efeb"/><stop offset="1" stop-color="#b7cbd0"/></linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#52788b" stroke-opacity=".13"/><path d="M26 0V52M0 26H52" fill="none" stroke="#52788b" stroke-opacity=".065"/></pattern>
+    <radialGradient id="light"><stop stop-color="#fff" stop-opacity=".78"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#plate)"/><rect width="1600" height="1200" fill="url(#grid)"/>
+  <ellipse cx="1170" cy="145" rx="720" ry="470" fill="url(#light)"/>
+  <g fill="none" stroke="#517a8b" stroke-opacity=".18"><circle cx="1305" cy="280" r="218" stroke-width="2"/><circle cx="1305" cy="280" r="159"/><path d="M1020 280h570M1305 0v560M100 1080h1050M100 1066v28m250-28v28m250-28v28m250-28v28m250-28v28" stroke-width="1.5"/><path d="M110 860c300-185 474-91 757-220 250-114 374-169 630-126" stroke-width="2" stroke-dasharray="11 10"/></g>
+  <g fill="#597f8e" fill-opacity=".42" font-family="monospace" font-size="15" letter-spacing="5"><text x="108" y="1045">SYSTEMS STUDY / 959</text><text x="1120" y="585">A - A</text></g>
+</svg>
