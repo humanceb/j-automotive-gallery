@@ -1,16 +1,22 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.040
-System boundaries.
+00:00:00.000 --> 00:00:24.000
+System boundaries. Notice what changes and what stays the same.
 
-00:00:05.040 --> 00:00:11.520
-BIG IDEA: Choose what enters the model
+00:00:24.000 --> 00:00:31.000
+LEARNING TARGET: Choose what enters the model
 
-00:00:11.520 --> 00:00:17.280
-WORK IT THROUGH: Boundary sketch
+00:00:31.000 --> 00:00:38.000
+THE BIG IDEA: A system boundary says what is inside the analysis and what crosses it. Changing the boundary changes the accounting.
 
-00:00:17.280 --> 00:00:21.840
-Pause and predict. What would you measure or draw?
+00:00:38.000 --> 00:00:45.000
+WORKED EXAMPLE: If the tire is inside the boundary, include its forces; if outside, label the road contact as an external interaction.
 
-00:00:21.840 --> 00:00:24.000
-Take it with you: explain the relationship in one sentence.
+00:00:45.000 --> 00:00:52.000
+PAUSE AND PREDICT: Boundary sketch
+
+00:00:52.000 --> 00:00:59.000
+MODEL LIMIT: A system diagram is a model, not a finished vehicle or proof of roadworthiness.
+
+00:00:59.000 --> 00:01:06.000
+TAKEAWAY: Choose what enters the model

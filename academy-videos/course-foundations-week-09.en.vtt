@@ -1,16 +1,22 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.040
-Trade-offs.
+00:00:00.000 --> 00:00:24.000
+Trade-offs. Notice what changes and what stays the same.
 
-00:00:05.040 --> 00:00:11.520
-BIG IDEA: Compare competing design objectives
+00:00:24.000 --> 00:00:31.000
+LEARNING TARGET: Compare competing design objectives
 
-00:00:11.520 --> 00:00:17.280
-WORK IT THROUGH: Pareto sort
+00:00:31.000 --> 00:00:38.000
+THE BIG IDEA: Trade studies compare objectives after hard constraints are satisfied. A preference cannot erase a safety constraint.
 
-00:00:17.280 --> 00:00:21.840
-Pause and predict. What would you measure or draw?
+00:00:38.000 --> 00:00:45.000
+WORKED EXAMPLE: Plot mass against cost; keep any required load limit as a boundary, not a score to trade away.
 
-00:00:21.840 --> 00:00:24.000
-Take it with you: explain the relationship in one sentence.
+00:00:45.000 --> 00:00:52.000
+PAUSE AND PREDICT: Pareto sort
+
+00:00:52.000 --> 00:00:59.000
+MODEL LIMIT: A system diagram is a model, not a finished vehicle or proof of roadworthiness.
+
+00:00:59.000 --> 00:01:06.000
+TAKEAWAY: Compare competing design objectives

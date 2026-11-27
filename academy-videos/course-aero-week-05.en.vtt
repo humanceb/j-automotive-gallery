@@ -1,16 +1,22 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.040
-Lift and downforce.
+00:00:00.000 --> 00:00:24.000
+Lift and downforce. Notice what changes and what stays the same.
 
-00:00:05.040 --> 00:00:11.520
-BIG IDEA: Set force direction and sign convention
+00:00:24.000 --> 00:00:31.000
+LEARNING TARGET: Set force direction and sign convention
 
-00:00:11.520 --> 00:00:17.280
-WORK IT THROUGH: Force-vector labeling
+00:00:31.000 --> 00:00:38.000
+THE BIG IDEA: Lift is defined relative to the flow; downforce describes a downward vertical force in the vehicle/road frame. Both depend on configuration.
 
-00:00:17.280 --> 00:00:21.840
-Pause and predict. What would you measure or draw?
+00:00:38.000 --> 00:00:45.000
+WORKED EXAMPLE: Draw relative wind, then label the perpendicular force direction before deciding whether it is lift or downforce.
 
-00:00:21.840 --> 00:00:24.000
-Take it with you: explain the relationship in one sentence.
+00:00:45.000 --> 00:00:52.000
+PAUSE AND PREDICT: Force-vector labeling
+
+00:00:52.000 --> 00:00:59.000
+MODEL LIMIT: Simplified flow picture; real values need test method and conditions.
+
+00:00:59.000 --> 00:01:06.000
+TAKEAWAY: Set force direction and sign convention

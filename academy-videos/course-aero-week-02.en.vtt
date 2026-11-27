@@ -1,16 +1,22 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:05.040
-Drag equation.
+00:00:00.000 --> 00:00:24.000
+Drag equation. Notice what changes and what stays the same.
 
-00:00:05.040 --> 00:00:11.520
-BIG IDEA: Identify density, area, Cd and speed
+00:00:24.000 --> 00:00:31.000
+LEARNING TARGET: Identify density, area, Cd and speed
 
-00:00:11.520 --> 00:00:17.280
-WORK IT THROUGH: Variable matching
+00:00:31.000 --> 00:00:38.000
+THE BIG IDEA: The drag model D = ½ρCdAv² organizes density, coefficient, reference area and speed. Cd and area must use compatible conventions.
 
-00:00:17.280 --> 00:00:21.840
-Pause and predict. What would you measure or draw?
+00:00:38.000 --> 00:00:45.000
+WORKED EXAMPLE: With ρ=1.225 kg/m³, Cd=.32, A=2.2 m² and v=25 m/s, the illustrative fixed-input model gives about 270 N.
 
-00:00:21.840 --> 00:00:24.000
-Take it with you: explain the relationship in one sentence.
+00:00:45.000 --> 00:00:52.000
+PAUSE AND PREDICT: Variable matching
+
+00:00:52.000 --> 00:00:59.000
+MODEL LIMIT: Simplified flow picture; real values need test method and conditions.
+
+00:00:59.000 --> 00:01:06.000
+TAKEAWAY: Identify density, area, Cd and speed
