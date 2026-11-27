@@ -122,7 +122,7 @@ void main(){vec2 p=vUv;vec2 e=vec2(.003,0.);
       <header class="masthead">
         <a class="wordmark" href="#board" aria-label="J Automotive Gallery home"><span>J</span> AUTOMOTIVE GALLERY</a>
         <p class="masthead-note">Independent files \xB7 assembled by hand</p>
-        <div class="masthead-actions"><button class="miso-open" type="button">Miso\u2019s Gas & Cards</button><button class="design-lab-open" type="button">Design Lab</button><button class="garage-open" type="button">My Garage <span class="garage-jp">JP</span></button><button class="ambient-toggle" type="button">Motion: Gentle Life</button><button class="sound-toggle" type="button" aria-pressed="${Pe}" aria-label="Turn workshop sound ${Pe?"off":"on"}">${Pe?"Sound on":"Sound off"}</button></div>
+        <div class="masthead-actions"><a class="academy-entry" href="./academy.html">Academy <small>Learn the machine</small></a><button class="miso-open" type="button">Miso\u2019s Gas & Cards</button><button class="design-lab-open" type="button">Design Lab</button><button class="garage-open" type="button">My Garage <span class="garage-jp">JP</span></button><button class="ambient-toggle" type="button">Motion: Gentle Life</button><button class="sound-toggle" type="button" aria-pressed="${Pe}" aria-label="Turn workshop sound ${Pe?"off":"on"}">${Pe?"Sound on":"Sound off"}</button></div>
       </header>
       <section class="collection" aria-labelledby="board-title">
         <div class="collection-heading">
