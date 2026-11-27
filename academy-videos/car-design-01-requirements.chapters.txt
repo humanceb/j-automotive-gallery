@@ -1,0 +1,8 @@
+00:00:00 The brief is the first part
+00:01:05 Draw the system boundary
+00:02:20 Make a mass budget
+00:03:40 Trace energy before choosing power
+00:05:00 Give the shape an air-resistance check
+00:06:20 Resolve the design conflicts
+00:07:35 Build a verification and law checklist
+00:08:50 Review the brief before the first build

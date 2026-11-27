@@ -1,0 +1,137 @@
+WEBVTT
+
+NOTE CHAPTER 01 · The brief is the first part
+1
+00:00:00.000 --> 00:00:16.250
+Every car begins with a job. Define what it must do before drawing hardware.
+
+2
+00:00:16.250 --> 00:00:32.500
+Fast, cheap, and safe are wishes until each becomes a measurable question.
+
+3
+00:00:32.500 --> 00:00:48.750
+A useful target states a quantity, unit, condition, and verification method. The 1,200 kg target is illustrative.
+
+4
+00:00:48.750 --> 00:01:05.000
+Make each requirement testable. NASA’s systems engineering handbook informs the method, not vehicle law.
+
+NOTE CHAPTER 02 · Draw the system boundary
+1
+00:01:05.000 --> 00:01:23.750
+Set the boundary around the complete vehicle system.
+
+2
+00:01:23.750 --> 00:01:42.500
+Separate the layers to expose the interfaces between subsystems.
+
+3
+00:01:42.500 --> 00:02:01.250
+Trace energy, force, information, and heat across those interfaces.
+
+4
+00:02:01.250 --> 00:02:20.000
+Reconnect the system map and inspect the unresolved links.
+
+NOTE CHAPTER 03 · Make a mass budget
+1
+00:02:20.000 --> 00:02:40.000
+Component mass figures are estimates; keep their sources and uncertainty.
+
+2
+00:02:40.000 --> 00:03:00.000
+These illustrative subsystem estimates sum to 1,200 kilograms.
+
+3
+00:03:00.000 --> 00:03:20.000
+At a stated 2 metres per second squared, F equals m a: 2,400 newtons.
+
+4
+00:03:20.000 --> 00:03:40.000
+This first-order net-force check omits road loads and tire limits.
+
+NOTE CHAPTER 04 · Trace energy before choosing power
+1
+00:03:40.000 --> 00:04:00.000
+A force acting along a distance transfers work in this simple model.
+
+2
+00:04:00.000 --> 00:04:20.000
+100 newtons through 20 metres is 2,000 joules of work.
+
+3
+00:04:20.000 --> 00:04:40.000
+Deliver 2,000 joules in 10 seconds: average power is 200 watts.
+
+4
+00:04:40.000 --> 00:05:00.000
+This idealized example does not size a motor or powertrain.
+
+NOTE CHAPTER 05 · Give the shape an air-resistance check
+1
+00:05:00.000 --> 00:05:20.000
+Drag depends on air density, speed, reference area, and shape.
+
+2
+00:05:20.000 --> 00:05:40.000
+Read the variable meanings and units before using the drag equation.
+
+3
+00:05:40.000 --> 00:06:00.000
+With other values fixed, doubling 20 to 40 metres per second makes drag four times larger.
+
+4
+00:06:00.000 --> 00:06:20.000
+Illustrative inputs are not vehicle data; real airflow needs validated testing.
+
+NOTE CHAPTER 06 · Resolve the design conflicts
+1
+00:06:20.000 --> 00:06:38.750
+Vehicle objectives interact; a local improvement can create a new penalty.
+
+2
+00:06:38.750 --> 00:06:57.500
+This schematic trade space shows alternatives, not measured vehicle scores.
+
+3
+00:06:57.500 --> 00:07:16.250
+Safety and applicable legal requirements are constraints to verify.
+
+4
+00:07:16.250 --> 00:07:35.000
+Select against the brief and preserve evidence, assumptions, and uncertainty.
+
+NOTE CHAPTER 07 · Build a verification and law checklist
+1
+00:07:35.000 --> 00:07:53.750
+A plausible calculation does not certify a vehicle for road use.
+
+2
+00:07:53.750 --> 00:08:12.500
+Requirements depend on jurisdiction, vehicle type, modification, and use.
+
+3
+00:08:12.500 --> 00:08:31.250
+NHTSA and UNECE are examples of official frameworks, not universal rules.
+
+4
+00:08:31.250 --> 00:08:50.000
+Check current local authority requirements; this lesson makes no legal determination.
+
+NOTE CHAPTER 08 · Review the brief before the first build
+1
+00:08:50.000 --> 00:09:07.500
+Trace each design target to a source, calculation, or planned test.
+
+2
+00:09:07.500 --> 00:09:25.000
+Keep assumptions and uncertainty connected to every estimate.
+
+3
+00:09:25.000 --> 00:09:42.500
+Assign an explicit next verification step to every important unknown.
+
+4
+00:09:42.500 --> 00:10:00.000
+The brief is ready for the next study: vehicle layout and packaging.
