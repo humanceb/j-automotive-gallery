@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Transmission. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Relate gear teeth, speed and torque
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: A gear pair trades rotational speed for torque in the ideal model. A real transmission adds stages and mechanical losses.
+00:24.000 --> 00:36.000
+A gear pair trades rotational speed for torque in the ideal model. A real transmission adds stages and mechanical losses.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: 18-tooth driver to 54-tooth driven gear: ratio 3:1; 3,000 rpm input becomes 1,000 rpm output ideally.
+00:36.000 --> 00:48.000
+18-tooth driver to 54-tooth driven gear: ratio 3:1; 3,000 rpm input becomes 1,000 rpm output ideally.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Ratio calculation
+00:48.000 --> 01:00.000
+Ratio calculation
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Ideal mechanism only; friction, heat and part-specific behavior need measurements.
+01:00.000 --> 01:12.000
+This ideal mechanism leaves out friction, temperature and part-specific behavior. Real designs need measurements.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Relate gear teeth, speed and torque
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

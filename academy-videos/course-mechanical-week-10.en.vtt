@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Brakes and ABS. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Explain wheel-speed sensing and pressure modulation
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: ABS uses wheel-speed information and controlled brake pressure to help manage wheel slip during braking. It is a feedback system, not a shorter-stopping guarantee on every surface.
+00:24.000 --> 00:36.000
+ABS uses wheel-speed information and controlled brake pressure to help manage wheel slip during braking. It is a feedback system, not a shorter-stopping guarantee on every surface.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: Sensor → controller estimate → hydraulic pressure adjustment → new wheel-speed measurement.
+00:36.000 --> 00:48.000
+Sensor → controller estimate → hydraulic pressure adjustment → new wheel-speed measurement.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Control-loop ordering
+00:48.000 --> 01:00.000
+Control-loop ordering
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Ideal mechanism only; friction, heat and part-specific behavior need measurements.
+01:00.000 --> 01:12.000
+This ideal mechanism leaves out friction, temperature and part-specific behavior. Real designs need measurements.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Explain wheel-speed sensing and pressure modulation
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

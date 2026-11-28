@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Boundary layers. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Describe near-wall flow in words
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: A boundary layer is the near-surface region where viscosity affects velocity. Surface and pressure conditions influence its development.
+00:24.000 --> 00:36.000
+A boundary layer is the near-surface region where viscosity affects velocity. Surface and pressure conditions influence its development.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: Velocity is near zero at the wall in the standard no-slip model and approaches the outer flow farther away.
+00:36.000 --> 00:48.000
+Velocity is near zero at the wall in the standard no-slip model and approaches the outer flow farther away.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Flow-state sorting
+00:48.000 --> 01:00.000
+Flow-state sorting
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Simplified flow picture; real values need test method and conditions.
+01:00.000 --> 01:12.000
+This simplified flow picture leaves out turbulence and test conditions. Real values need a stated method.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Describe near-wall flow in words
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

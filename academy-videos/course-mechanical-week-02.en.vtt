@@ -1,22 +1,23 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Cylinder geometry. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+One cylinder hides a measurable volume.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Calculate swept volume from bore and stroke
+00:12.000 --> 00:24.000
+Bore sets area. Stroke sets travel.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: Swept displacement is cylinder area times stroke, multiplied by cylinder count. It describes geometry, not power.
+00:24.000 --> 00:36.000
+Now count every cylinder.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: Illustrative: 86 mm bore × 86 mm stroke × 4 cylinders gives about 1,998 cm³.
+00:36.000 --> 00:48.000
+Convert mm³ to cm³: divide by 1,000.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Guided unit conversion
+00:48.000 --> 01:00.000
+If stroke grows, what changes?
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Ideal mechanism only; friction, heat and part-specific behavior need measurements.
+01:00.000 --> 01:12.000
+This example is geometry, not power.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Calculate swept volume from bore and stroke
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.
+NOTE Formula reference: U.S. EPA displacement method, https://www.epa.gov/sites/default/files/2014-10/documents/41easternboulevardinc05.pdf
+NOTE Teaching example values are illustrative, not a production engine specification.

@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Speed-squared effect. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Calculate drag change as speed changes
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: If density, Cd and area stay fixed, drag force follows speed squared. Real flow can change those other inputs.
+00:24.000 --> 00:36.000
+If density, Cd and area stay fixed, drag force follows speed squared. Real flow can change those other inputs.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: 20→40 m/s doubles speed, so modeled drag becomes 4×, not 2×.
+00:36.000 --> 00:48.000
+20→40 m/s doubles speed, so modeled drag becomes 4×, not 2×.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Prediction and calculation
+00:48.000 --> 01:00.000
+Prediction and calculation
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Simplified flow picture; real values need test method and conditions.
+01:00.000 --> 01:12.000
+This simplified flow picture leaves out turbulence and test conditions. Real values need a stated method.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Calculate drag change as speed changes
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

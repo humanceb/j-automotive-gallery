@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Differential. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Predict wheel speed in a turn
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: In an open differential, the carrier drives both axle gears while allowing left and right wheel speeds to differ.
+00:24.000 --> 00:36.000
+In an open differential, the carrier drives both axle gears while allowing left and right wheel speeds to differ.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: Illustrative 27 rpm and 33 rpm wheel speeds average 30 rpm at the carrier in the ideal model.
+00:36.000 --> 00:48.000
+Illustrative 27 rpm and 33 rpm wheel speeds average 30 rpm at the carrier in the ideal model.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Interactive motion prediction
+00:48.000 --> 01:00.000
+Interactive motion prediction
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Ideal mechanism only; friction, heat and part-specific behavior need measurements.
+01:00.000 --> 01:12.000
+This ideal mechanism leaves out friction, temperature and part-specific behavior. Real designs need measurements.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Predict wheel speed in a turn
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

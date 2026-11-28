@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Four-stroke cycle. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Trace piston, crank and valve events
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: A four-stroke spark-ignition teaching model orders intake, compression, power and exhaust across two crankshaft turns. Real valve events overlap.
+00:24.000 --> 00:36.000
+A four-stroke spark-ignition teaching model orders intake, compression, power and exhaust across two crankshaft turns. Real valve events overlap.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: One ideal cycle = 2 × 360° = 720° of crank rotation.
+00:36.000 --> 00:48.000
+One ideal cycle = 2 × 360° = 720° of crank rotation.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Sequence the 720° cycle
+00:48.000 --> 01:00.000
+Sequence the 720° cycle
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Ideal mechanism only; friction, heat and part-specific behavior need measurements.
+01:00.000 --> 01:12.000
+This ideal mechanism leaves out friction, temperature and part-specific behavior. Real designs need measurements.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Trace piston, crank and valve events
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

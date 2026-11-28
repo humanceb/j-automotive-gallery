@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-Pressure and dynamic pressure. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Interpret q = ½ρV²
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: Dynamic pressure q = ½ρv² is a useful scale for aerodynamic pressure effects under the stated flow model.
+00:24.000 --> 00:36.000
+Dynamic pressure q = ½ρv² is a useful scale for aerodynamic pressure effects under the stated flow model.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: At ρ=1.2 kg/m³ and v=20 m/s, q=240 Pa. This is a scale, not the pressure on every body panel.
+00:36.000 --> 00:48.000
+At ρ=1.2 kg/m³ and v=20 m/s, q=240 Pa. This is a scale, not the pressure on every body panel.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Graph reading
+00:48.000 --> 01:00.000
+Graph reading
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: Simplified flow picture; real values need test method and conditions.
+01:00.000 --> 01:12.000
+This simplified flow picture leaves out turbulence and test conditions. Real values need a stated method.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Interpret q = ½ρV²
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.

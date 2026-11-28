@@ -1,22 +1,21 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:24.000
-System boundaries. Notice what changes and what stays the same.
+00:00.000 --> 00:12.000
+Start with the part you can observe.
 
-00:00:24.000 --> 00:00:31.000
-LEARNING TARGET: Choose what enters the model
+00:12.000 --> 00:24.000
+Follow the relationship as it changes.
 
-00:00:31.000 --> 00:00:38.000
-THE BIG IDEA: A system boundary says what is inside the analysis and what crosses it. Changing the boundary changes the accounting.
+00:24.000 --> 00:36.000
+A system boundary says what is inside the analysis and what crosses it. Changing the boundary changes the accounting.
 
-00:00:38.000 --> 00:00:45.000
-WORKED EXAMPLE: If the tire is inside the boundary, include its forces; if outside, label the road contact as an external interaction.
+00:36.000 --> 00:48.000
+If the tire is inside the boundary, include its forces; if outside, label the road contact as an external interaction.
 
-00:00:45.000 --> 00:00:52.000
-PAUSE AND PREDICT: Boundary sketch
+00:48.000 --> 01:00.000
+Boundary sketch
 
-00:00:52.000 --> 00:00:59.000
-MODEL LIMIT: A system diagram is a model, not a finished vehicle or proof of roadworthiness.
+01:00.000 --> 01:12.000
+A block diagram is a model, not a finished vehicle or proof of legal roadworthiness.
 
-00:00:59.000 --> 00:01:06.000
-TAKEAWAY: Choose what enters the model
+NOTE Reference index: See the Academy research board for the source notes used in this lesson.
